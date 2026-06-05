@@ -1,0 +1,17 @@
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+*.log
+tmp/
+temp/
+.vscode/
+.idea/
+*.iml
+bin/
+obj/
+*.suo
+*.user
+~$*.docx
+~$*.xlsx
+~$*.pptx
