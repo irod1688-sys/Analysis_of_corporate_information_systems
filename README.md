@@ -1,1 +1,1 @@
-# Анализ корпоративных информационных систем
+# Analysis_of_corporate_information_systems
