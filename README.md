@@ -1,4 +1,4 @@
-# Analysis\_of\_corporate\_information\_systems
+# Analysis of corporate information systems<3
 
 Привет<3
 Привет<3№2
